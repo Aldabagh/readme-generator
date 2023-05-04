@@ -1,10 +1,10 @@
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # as
+  # README generator using node.js
   
   # Description
-  dssds 
+  Application that creates a generated README.md file. 
 
   # Table of Contents
   - [Questions](#questions)
@@ -14,18 +14,18 @@
   - [Tests](#tests)
   
   # Installation
-  sdsd
+  npm install inquirer is required
   # Usage
-  sdsd
+  Javascript
   
    
   # Contributing
-  ttt
+  Ali Aldabagh
   # Tests 
-  www
+  No test included
   
   # Questions
-  - qqq
-  - [ytyt](ytyt)
+  - alikais2005@yahoo.com
+  - [https://github.com/Aldabagh](https://github.com/Aldabagh)
    
   
